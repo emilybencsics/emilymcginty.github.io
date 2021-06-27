@@ -1,3 +1,16 @@
+.column-left {
+	float: left; 
+	width: 25%;
+	padding-left: 80px;
+}
+
+.column-right {
+	float: right; 
+	width: 75%;
+	padding-right: 95px;
+}
+
+
 /**
 * Template Name: MyResume - v4.3.0
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
