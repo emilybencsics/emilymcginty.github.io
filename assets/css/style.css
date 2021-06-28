@@ -18,6 +18,15 @@
 	padding-bottom: 15px;
 }
 
+.section-content {
+	text-align:left
+}
+
+.section-content p {
+	margin-bottom: 0px;
+}
+
+
 
 /**
 * Template Name: MyResume - v4.3.0
