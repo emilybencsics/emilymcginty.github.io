@@ -503,7 +503,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Skills
+# Akills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -592,7 +592,7 @@ section {
   position: absolute;
   width: 16px;
   height: 16px;
-  border-radius: 10px;
+  border-radius: 50px;
   left: -9px;
   top: 0;
   background: #fff;
