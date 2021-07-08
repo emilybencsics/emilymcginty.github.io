@@ -52,6 +52,12 @@
 	vertical-align: text-top;
 }
 
+#contact .social-links {
+	padding: 10px 0 0 0;
+	text-align: left;
+	margin: 0 400px;
+}
+
 
 /**
 * Template Name: MyResume - v4.3.0
