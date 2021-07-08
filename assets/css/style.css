@@ -69,12 +69,12 @@ body {
 }
 
 a {
-  color: #ffa30a;
+  color: #e75480;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e75480;
+  color: #ffa30a;
   text-decoration: none;
 }
 
