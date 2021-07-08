@@ -419,7 +419,7 @@ section {
   display: block;
   width: 120px;
   height: 1px;
-  background: #ddd;
+  background: #fff;
   bottom: 1px;
   left: calc(50% - 60px);
 }
@@ -638,7 +638,6 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #272829;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
