@@ -218,10 +218,10 @@
    * Portfolio details slider
    */
   new Swiper('.portfolio-details-slider', {
-    speed: 2000,
+    speed: 1500,
     loop: true,
     autoplay: {
-      delay: 7000,
+      delay: 6000,
       disableOnInteraction: false
     },
     pagination: {
