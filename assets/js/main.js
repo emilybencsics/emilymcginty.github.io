@@ -218,10 +218,10 @@
    * Portfolio details slider
    */
   new Swiper('.portfolio-details-slider', {
-    speed: 5000,
+    speed: 1000,
     loop: true,
     autoplay: {
-      delay: 1000,
+      delay: 7000,
       disableOnInteraction: false
     },
     pagination: {
@@ -235,24 +235,7 @@
      }
   });
 
-  /**
-   * Testimonials slider
-   */
-  new Swiper('.testimonials-slider', {
-    speed: 600,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
-    },
-    slidesPerView: 'auto',
-    pagination: {
-      el: '.swiper-pagination',
-      type: 'bullets',
-      clickable: true
-    }
-  });
-
+ 
   /**
    * Animation on scroll
    */
