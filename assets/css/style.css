@@ -76,7 +76,7 @@
     height: 100%;
 }
 
-.section-title "portfolio" {
+#portfolio .section-title {
 	padding-bottom: 0px;
 }
 
