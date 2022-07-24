@@ -128,7 +128,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", "Raleway", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a, .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #45505b;
+  color: #000000;
   padding: 10px 18px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a span, .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #000000;
 }
 
 @media (min-width: 992px) {
@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #000000;
 }
 
 .mobile-nav-active {
@@ -392,14 +392,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #45505b;
+  color: #000000;
 }
 
 #hero p {
-  color: #45505b;
+  color: #000000;
   margin: 15px 0 0 0;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", "Poppins", sans-serif;
 }
 
 #hero p span {
@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #45505b;
+  color: #000000;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
@@ -459,7 +459,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #000000;
 }
 
 .section-title h2::before {
@@ -581,8 +581,8 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #45505b;
+  font-family: "Montserrat", "Poppins", sans-serif;
+  color: #000000;
 }
 
 .skills .progress .skill .val {
@@ -609,7 +609,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #45505b;
+  color: #000000;
 }
 
 .resume .resume-item {
@@ -624,7 +624,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", "Poppins", sans-serif;
   color: #ffa30a;
   margin-bottom: 10px;
 }
@@ -766,12 +766,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #45505b;
+  color: #000000;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #45505b;
+  color: #000000;
   font-size: 14px;
   text-transform: uppercase;
   padding: 0;
@@ -784,7 +784,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #45505b;
+  color: #000000;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
@@ -928,7 +928,7 @@ section {
 }
 
 .skills .icon-box h4 a {
-  color: #45505b;
+  color: #000000;
   transition: ease-in-out 0.3s;
 }
 
@@ -1119,7 +1119,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #45505b;
+  color: #000000;
 }
 
 .contact .info p {
@@ -1239,7 +1239,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #fff4c2;
-  color: #45505b;
+  color: #000000;
   font-size: 14px;
   text-align: center;
   padding: 50px 0 30px 0;
@@ -1249,7 +1249,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", "Poppins", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
