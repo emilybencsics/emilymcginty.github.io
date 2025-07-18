@@ -118,12 +118,12 @@ body {
 }
 
 a {
-  color: #e75480;
+  color: #d66c98;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e75480;
+  color: #d66c98;
   text-decoration: none;
 }
 
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #e75480;
+  background: #d66c98;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #e75480;
+  background: #d66c98;
   color: #fff;
 }
 
@@ -183,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #e75480;
+  border: 6px solid #d66c98;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
   color: #fff;
-  background: #e75480;
+  background: #d66c98;
 }
 
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
@@ -357,7 +357,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-active .mobile-nav-toggle {
   color: #fff;
-  background-color: #e75480;
+  background-color: #d66c98;
 }
 
 /*--------------------------------------------------------------
@@ -403,7 +403,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p span {
-  color: #e75480;
+  color: #d66c98;
   letter-spacing: 1px;
 }
 
@@ -421,7 +421,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .social-links a:hover {
-  color: #e75480;
+  color: #d66c98;
 }
 
 @media (max-width: 992px) {
@@ -479,7 +479,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #e75480;
+  background: #d66c98;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -515,7 +515,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #e75480;
+  color: #d66c98;
   line-height: 0;
 }
 
@@ -541,7 +541,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #e75480;
+  background: #d66c98;
   color: #fff;
   border-radius: 50px;
   display: inline-flex;
@@ -598,7 +598,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #e75480;
+  background-color: #d66c98;
 }
 
 /*--------------------------------------------------------------
@@ -615,7 +615,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #e75480;
+  border-left: 2px solid #d66c98;
   position: relative;
 }
 
@@ -625,7 +625,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Montserrat", "Poppins", sans-serif;
-  color: #e75480;
+  color: #d66c98;
   margin-bottom: 10px;
 }
 
@@ -659,7 +659,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #e75480;
+  border: 2px solid #d66c98;
 }
 
 /*--------------------------------------------------------------
@@ -692,7 +692,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #e75480;
+  color: #d66c98;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -837,11 +837,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e75480;
+  border: 1px solid #d66c98;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e75480;
+  background-color: #d66c98;
 }
 
 .portfolio-details .portfolio-info {
@@ -1078,11 +1078,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e75480;
+  border: 1px solid #d66c98;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e75480;
+  background-color: #d66c98;
 }
 
 @media (min-width: 992px) {
@@ -1101,7 +1101,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #e75480;
+  color: #d66c98;
   float: left;
   width: 44px;
   height: 44px;
@@ -1133,7 +1133,7 @@ section {
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #e75480;
+  background: #d66c98;
   color: #fff;
 }
 
@@ -1203,7 +1203,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #e75480;
+  background: #d66c98;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1267,7 +1267,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #e75480;
+  background: #d66c98;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1280,7 +1280,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #e75480;
+  background: #d66c98;
   color: #fff;
   text-decoration: none;
 }
