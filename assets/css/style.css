@@ -967,7 +967,7 @@ section {
 }
 
 .skills .iconbox-pink i {
-  color: ##d66c98;
+  color: #d66c98;
 }
 
 .skills .iconbox-pink:hover .icon i {
@@ -975,7 +975,7 @@ section {
 }
 
 .skills .iconbox-pink:hover .icon path {
-  fill: ##d66c98;
+  fill: #d66c98;
 }
 
 .skills .iconbox-yellow i {
