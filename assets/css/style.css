@@ -1297,3 +1297,7 @@ section {
 #hero p#about-me {
   font-size: 20px;
 }
+
+.portfolio-item:hover img {
+  filter: none !important;
+}
