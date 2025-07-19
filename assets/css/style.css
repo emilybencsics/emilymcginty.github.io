@@ -691,7 +691,7 @@ section {
   transition: all 0.3s ease-in-out;
 }
 
-/* .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #d66c98;
 } */
 
