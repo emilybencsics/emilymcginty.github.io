@@ -1,7 +1,20 @@
 /* ===== OVERRIDES FOR STYLE.css ===== */
 #main {
-  margin-left: 2em;
-  margin-right: 2em;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#portfolio-details .section-title {
+  padding-bottom: 0;
+}
+
+/* ====== FIX INSTA EMBED ===== */
+.tile iframe {
+  min-width: 0 !important;
+}
+
+.tile {
+  overflow: hidden;
 }
 
 /* ===== Custom Portfolio Page Styles ===== */
@@ -25,15 +38,15 @@
 }
 
 .portfolio-description {
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 
-.portfolio-description h2 {
+/* .portfolio-description h2 {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 1rem;
   color: #000;
-}
+} */
 
 .portfolio-description p {
   margin-bottom: 1rem;
@@ -53,11 +66,10 @@
   }
 }
 
-
 /* ===== Portfolio Tiles Section ===== */
 
 .portfolio-tiles-section {
-  margin-top: 60px;
+  /* margin-top: 60px; */
 }
 
 .tiles-grid {
@@ -96,4 +108,17 @@
   font-size: 0.95rem;
   color: #555;
   line-height: 1.4;
+}
+
+.portfolio-subheader {
+  margin-top: 2em;
+}
+
+body {
+  font-family: "Montserrat", "Open Sans", sans-serif;
+  color: #000000;
+}
+
+#header-logo {
+  width: 50%;
 }
