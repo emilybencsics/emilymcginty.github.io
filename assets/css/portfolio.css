@@ -17,6 +17,11 @@
   overflow: hidden;
 }
 
+.tile {
+  display: flex;
+  flex-direction: column;
+}
+
 /* ===== Custom Portfolio Page Styles ===== */
 
 .portfolio-details-slider {
